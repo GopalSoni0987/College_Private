@@ -1,0 +1,8 @@
+C:\Users\Rohit\source\repos\wk3_2\bin\Debug\wk3_2.exe.config
+C:\Users\Rohit\source\repos\wk3_2\bin\Debug\wk3_2.exe
+C:\Users\Rohit\source\repos\wk3_2\bin\Debug\wk3_2.pdb
+C:\Users\Rohit\source\repos\wk3_2\obj\Debug\wk3_2.csproj.AssemblyReference.cache
+C:\Users\Rohit\source\repos\wk3_2\obj\Debug\wk3_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rohit\source\repos\wk3_2\obj\Debug\wk3_2.csproj.CoreCompileInputs.cache
+C:\Users\Rohit\source\repos\wk3_2\obj\Debug\wk3_2.exe
+C:\Users\Rohit\source\repos\wk3_2\obj\Debug\wk3_2.pdb

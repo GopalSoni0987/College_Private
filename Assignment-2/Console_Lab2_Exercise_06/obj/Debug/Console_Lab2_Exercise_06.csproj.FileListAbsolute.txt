@@ -1,0 +1,8 @@
+C:\Users\Gopal Soni\source\repos\Console_Lab2_Exercise_06\bin\Debug\Console_Lab2_Exercise_06.exe.config
+C:\Users\Gopal Soni\source\repos\Console_Lab2_Exercise_06\bin\Debug\Console_Lab2_Exercise_06.exe
+C:\Users\Gopal Soni\source\repos\Console_Lab2_Exercise_06\bin\Debug\Console_Lab2_Exercise_06.pdb
+C:\Users\Gopal Soni\source\repos\Console_Lab2_Exercise_06\obj\Debug\Console_Lab2_Exercise_06.csproj.AssemblyReference.cache
+C:\Users\Gopal Soni\source\repos\Console_Lab2_Exercise_06\obj\Debug\Console_Lab2_Exercise_06.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gopal Soni\source\repos\Console_Lab2_Exercise_06\obj\Debug\Console_Lab2_Exercise_06.csproj.CoreCompileInputs.cache
+C:\Users\Gopal Soni\source\repos\Console_Lab2_Exercise_06\obj\Debug\Console_Lab2_Exercise_06.exe
+C:\Users\Gopal Soni\source\repos\Console_Lab2_Exercise_06\obj\Debug\Console_Lab2_Exercise_06.pdb
